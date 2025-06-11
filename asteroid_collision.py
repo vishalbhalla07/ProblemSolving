@@ -1,3 +1,5 @@
+import List
+
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
         # [4 2 -1 -2 4 -5 5]
